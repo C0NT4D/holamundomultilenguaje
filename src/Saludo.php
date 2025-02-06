@@ -2,7 +2,7 @@
 namespace HolaMundoMultilenguaje;
 class Saludo
 {
-    //hola que talaa
+    //hola que talaaa
  private $saludos;
  public function __construct()
  {
